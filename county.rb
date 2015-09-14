@@ -1,3 +1,5 @@
+# Learning some Ruby, writing some silly games...
+
 $munster = ['cork', 'kerry', 'limerick', 'waterford', 'clare', 'tipperary']
 $guesses = []
 
