@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -4510,3 +4511,7 @@ best possible guide, don't we?</p>
   </body>
 </html>
 
+=======
+# ruby
+Trying to learn some Ruby...
+>>>>>>> origin/learning-ruby
